@@ -1,16 +1,13 @@
-# portfolioweb
 
-A new Flutter project.
 
-## Getting Started
+  <h1 align = "center"> <b> Portfolio </b> </h1>
+  <p>
+  <img src = "https://github.com/fenishpatel3150/portfolioweb/assets/143187609/674c349d-0fbf-4a1b-9e09-7caa746fa0f9" >
+  
+  <img src = "https://github.com/fenishpatel3150/portfolioweb/assets/143187609/61159aae-dc3d-4938-99db-e7e56dd0a3c9">    
+  
+  <video src ="https://github.com/fenishpatel3150/portfolioweb/assets/143187609/05552939-84a4-418f-8240-26bd3d5f085c"></video>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  </p> 
