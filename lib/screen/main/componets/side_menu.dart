@@ -52,7 +52,7 @@ class Sidemenu extends StatelessWidget {
                       children: [
                         Text("DOWNLOAD CV",style: Theme.of(context).textTheme.bodyLarge),
                         SizedBox(width: defaultPadding/2,),
-                        SvgPicture.asset('assets/icons/download.svg')
+                        SvgPicture.asset('assets/icons/download.svg',color: Colors.grey,)
                       ],
                     ),
                     Webicons(),

@@ -18,16 +18,16 @@ class Webicons extends StatelessWidget {
           Spacer(),
           IconButton(onPressed: (){
 
-          }, icon: SvgPicture.asset('assets/icons/linkedin.svg')),
+          }, icon: SvgPicture.asset('assets/icons/linkedin.svg',color: Colors.grey,)),
           IconButton(onPressed: (){
 
-          }, icon: SvgPicture.asset('assets/icons/github.svg')),
+          }, icon: SvgPicture.asset('assets/icons/github.svg',color: Colors.grey,)),
           IconButton(onPressed: (){
 
-          }, icon: SvgPicture.asset('assets/icons/twitter.svg')),
+          }, icon: SvgPicture.asset('assets/icons/twitter.svg',color: Colors.grey,)),
           IconButton(onPressed: (){
 
-          }, icon: SvgPicture.asset('assets/icons/behance.svg')),
+          }, icon: SvgPicture.asset('assets/icons/behance.svg',color: Colors.grey,)),
           Spacer(),
         ],
       ),
